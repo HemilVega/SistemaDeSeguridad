@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#FFFF0000</color>
+    <color name="cafe">#FFa18262</color>
+    <color name="celeste">#FF00aae4</color>
+    <color name="verde">#FF00FF00</color>
+
+
+
+    <!-- colores para tema oscuro -->
+    <color name="backgroundOscuro">#000000</color>
+    <color name="colorClaro">#FFFFFF</color>
+
+    <!-- colores para tema Claro -->
+    <color name="backgroundClaro">#FFFFFF</color>
+    <color name="colorOscuro">#000000</color>
+</resources>

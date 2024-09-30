@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SistemaDeSeguridad</string>
+    <string name="EstadoVentanaCerrada">Estado de la Ventana: Cerrada</string>
+    <string name="EstadoPuertaCerrada">Estado de la Puerta: Cerrada</string>
+    <string name="ActivarSistema">Activar Sistema</string>
+    <string name="SistemaSeguridad">sistema de seguridad</string>
+    <string name="ConfiguraciónSistema">configuración del sistema</string>
+    <string name="SensibilidadSensor">Sensibilidad del sensor</string>
+    <string name="HistorialEventos">Historial de Eventos</string>
+    <string name="Alertas">Alertas</string>
+    <string name="HabilitarNotificaciones">Habilitar Notificaciones</string>
+    <string name="NumeroTelefono">Número de Teléfono</string>
+    <string name="AyudaDe">Ayuda Acerca de:</string>
+    <string name="Monitoreo">esta aplicación permite monitorear la seguridad de tus puertas y ventanas.</string>
+    <string name="DuraciónEnSegundos">Duración de la Alerta (S)</string>
+    <string name="diez">10</string>
+    <string name="GuardarConfiguracion">Guardar Configuraciones</string>
+    <string name="ConfigAlerts">¿Cómo configuro las alertas?</string>
+    <string name="Explicacion1">Para configurar las alertas, dirígete a la sección de configuración y activa las notificaciones.</string>
+    <string name="CómoRevisoHistorialEventos">¿Cómo reviso el historial de eventos?</string>
+    <string name="Contacto">Contáctanos</string>
+    <string name="Explicación2">El historial de eventos se encuentra en la sección \'Historial\'. Allí podrás revisar los registros.</string>
+    <string name="Ayuda">Centro de Ayuda</string>
+    <string name="IrAAyuda">Ir a Ayuda</string>
+    <string name="IrAConfig">Ir a Configuración</string>
+    <string name="IrAHistorial">Ir a Historial</string>
+    <string name="VolverInicio">Volver a Inicio</string>
+</resources>
